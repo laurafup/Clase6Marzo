@@ -5,7 +5,7 @@
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
       <!-- Propiedades para conexión con MySQL : Inicio-->
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/peliculas_db"/>      
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/creditos3"/>      
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
       <property name="javax.persistence.jdbc.password" value="root"/>
